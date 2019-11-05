@@ -1,6 +1,7 @@
 file:
    - test/functional/api/foodsTest.js
    - test/functional/api/productsTest.js
+   - test/functional/api/userEssayTest.js
 
 
 
