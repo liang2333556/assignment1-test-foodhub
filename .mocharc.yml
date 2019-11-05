@@ -3,6 +3,7 @@ file:
    - test/functional/api/productsTest.js
    - test/functional/api/userEssayTest.js
    - test/functional/api/orderTest.js
+   - test/functional/api/searchTest.js
 
 
 
