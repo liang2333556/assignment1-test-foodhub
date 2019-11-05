@@ -5,6 +5,7 @@ file:
    - test/functional/api/orderTest.js
    - test/functional/api/searchTest.js
    - test/functional/api/registTest.js
+   - test/functional/api/logTest.js
 
 
 
